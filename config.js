@@ -18,7 +18,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'v7.3.6',
     CHANNEL: 'https://t.me/remasterplugin',
-    SESSION: process.env.AMALSER_CODE === undefined ? '' : process.env.AMALSER_CODE,
+    SESSION: process.env.DEVIL_CODE === undefined ? '' : process.env.DEVIL_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
@@ -28,8 +28,8 @@ module.exports = {
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
     OWNER: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
-    ALL: process.env.ALL_CAPTION === undefined ? 'Made By Amalser' : process.env.ALL_CAPTION,
-    MENTION: process.env.TAG_REPLY === undefined ? '919072790587@s.whatsapp.net' : process.env.TAG_REPLY,
+    ALL: process.env.ALL_CAPTION === undefined ? 'Made By DEVIL' : process.env.ALL_CAPTION,
+    MENTION: process.env.TAG_REPLY === undefined ? '94766395983@s.whatsapp.net' : process.env.TAG_REPLY,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     PLKS: process.env.THERI_LIST === undefined ? false : process.env.THERI_LIST,
     PLK: process.env.NUMBER === undefined ? 'false' : process.env.NUMBER,
@@ -41,7 +41,7 @@ module.exports = {
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
     STICKERP: process.env.AUTO_STICKER === undefined ? true : convertToBool(process.env.AUTO_STICKER),
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
-    BOT: process.env.BOT_NAME === undefined ? '⊢‒‒‒ ⋈ ᴀᴍᴀʟsᴇʀ ⋈ ‒‒‒⊣' : process.env.BOT_NAME,
+    BOT: process.env.BOT_NAME === undefined ? 'MHMD MUKRIM DEVIL' : process.env.BOT_NAME,
     NOLOG: process.env.NO_LOG === undefined ? 'true' : process.env.NO_LOG,
     THERI_KICK: process.env.THERI_KICK === undefined ? 'false' : process.env.THERI_KICK,
     SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGD,
@@ -77,7 +77,7 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "919895828468-1632986420",
-    SUPPORT2: "919072790587-1627666570",
-    SUPPORT3: "905511384572-1621015274"
+    SUPPORT: "94764880177-94766395983",
+    SUPPORT2: "94766395983-94773777683",
+    SUPPORT3: "94773777683-94766395983"
 };
