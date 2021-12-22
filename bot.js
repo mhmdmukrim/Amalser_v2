@@ -114,7 +114,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'AFAMK' || config.AFPLK == 'afamk' || config.AFPLK == 'Afamk' || config.AFPLK == 'pinky') {
+        if (config.AFPLK == 'MUKRIM' || config.AFPLK == 'mukrim' || config.AFPLK == 'Mukrim' || config.AFPLK == 'pinky') {
         //thanks to afnanplk
         console.log(
             chalk.green.bold('thanks for watching -key cofirmed-')
@@ -352,7 +352,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ Amalser ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ DEVIL ~______~*' +
                                     '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UCV59Dhgjoexol70LGQUp4Yw*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
