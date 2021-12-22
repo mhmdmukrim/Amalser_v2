@@ -1,23 +1,23 @@
 {
-    "name": "Amalser_v2 ",
-    "description": "Amalser_v2 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
-    "logo": "https://i.imgur.com/yCYYyEJ.jpeg",
-    "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/cyberchekuthan/Amalser_v2",
-    "website":   "https://github.com/farhan-dqz/Julie-Mwol",
-    "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
+    "name": "DEVIL_v2 ",
+    "description": "DEVIL_v2 is the Modified Version of WhatsAsena, Made By @mhmdmukrim with Baileys.",
+    "logo": "https://camo.githubusercontent.com/4a1c2ce6fdc086baa63ccaa54146af0d9f8d8c21980b5091905ba5dca0040876/68747470733a2f2f692e6962622e636f2f384d714842627a2f494d472d32303231313032392d5741303036332e6a7067",
+    "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "sewqueen"],
+    "repository": "https://github.com/mhmdmukrim/DEVIL_v2",
+    "website":   "https://github.com/mhmdmukrim/DEVIL_v2",
+    "success_url": "https://github.com/mhmdmukrim/DEVIL_v2",
     "stack": "container",
     "env": {
-        "AMALSER_CODE": {
+        "DEVIL_CODE": {
             "description": "Type the code when you got by scanning QR through WhatsApp.",
             "required": true
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 91xxxxxxxxx,0",
+            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 94xxxxxxxxx,0",
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "enter the password, to get password watch https://youtu.be/fd0KPblop-k .",
+            "description": "enter the password, password is afamk .",
             "required": true
         },
         "LANGUAGE": {
