@@ -8,7 +8,7 @@ WhatsAsena - Yusuf Usta
 
 const chalk = require('chalk');
 const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/baileys');
-const {StringSession} = require('./julie/');
+const {StringSession} = require('./devil/');
 const fs = require('fs');
 
 async function whatsAsena () {
@@ -19,7 +19,7 @@ async function whatsAsena () {
     conn.regenerateQRIntervalMs = 50000;
     
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
+        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('devil')}
 ${chalk.white.italic('AsenaString Kodu Alıcı')}
 
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
